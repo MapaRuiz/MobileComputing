@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:text="PLAYER ONE (X)"
+        android:textAlignment="center"
+        android:textColor="@color/red"
+        android:textSize="42sp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal|bottom"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:text="PLAYER TWO (O)"
+        android:textSize="42sp"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:layout_below="@+id/btn7"
+        android:textColor="@color/blue"/>
+
+    <Button
+        android:id="@+id/btnNewGame"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="NEW GAME"
+        android:textSize="20sp"
+        android:layout_below="@id/textView2" />
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/textView"
+        android:text=""
+        android:textColorLink="#673AB7"
+        android:textSize="40sp"
+        android:backgroundTint="@color/gray"
+        />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:layout_toRightOf="@+id/btn1"
+        android:text=""
+        android:layout_below="@id/textView"
+        android:textSize="40sp"
+        android:backgroundTint="@color/gray"
+        />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:layout_toRightOf="@+id/btn2"
+        android:text=""
+        android:layout_below="@id/textView"
+        android:textSize="40sp"
+        android:backgroundTint="@color/gray"
+        />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/btn1"
+        android:text=""
+        android:textSize="40sp"
+        android:backgroundTint="@color/gray"
+        />
+
+    <Button
+        android:id="@+id/btn5"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/btn2"
+        android:layout_toRightOf="@+id/btn4"
+        android:text=""
+        android:textSize="40sp"
+        android:backgroundTint="@color/gray"
+        />
+
+    <Button
+        android:id="@+id/btn6"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/btn3"
+        android:layout_toRightOf="@+id/btn5"
+        android:text=""
+        android:textSize="40sp"
+        android:backgroundTint="@color/gray"
+        />
+
+    <Button
+        android:id="@+id/btn7"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/btn4"
+        android:text=""
+        android:textSize="40sp"
+        android:backgroundTint="@color/gray"
+        />
+
+    <Button
+        android:id="@+id/btn8"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/btn5"
+        android:layout_toRightOf="@+id/btn7"
+        android:text=""
+        android:textSize="40sp"
+        android:backgroundTint="@color/gray"
+        />
+
+    <Button
+        android:id="@+id/btn9"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/btn6"
+        android:layout_toRightOf="@+id/btn8"
+        android:text=""
+        android:textSize="40sp"
+        android:backgroundTint="@color/gray"
+        />
+
+</RelativeLayout>
