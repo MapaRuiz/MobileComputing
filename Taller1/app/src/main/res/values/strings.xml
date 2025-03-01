@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Taller 1</string>
+
+    <string name="saludo_ES">Hola</string>
+    <string name="saludo_IT">Ciao</string>
+    <string name="saludo_EN">Hello</string>
+    <string name="saludo_GER">Hallo</string>
+    <string name="saludo_FR">Bonjour</string>
+    <string-array name="idiomas">
+        <item>Español</item>
+        <item>Italiano</item>
+        <item>Ingles</item>
+        <item>Aleman</item>
+        <item>Frances</item>
+    </string-array>
+</resources>
