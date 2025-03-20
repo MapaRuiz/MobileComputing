@@ -8,3 +8,5 @@
 👨‍🏫- Teacher: Oscar Danilo Martinez Bernal
 
 🏦- University: Pontificia Universidad Javeriana
+
+Taller 1: https://youtu.be/kjEGqbn_d-E
