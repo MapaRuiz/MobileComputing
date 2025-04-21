@@ -15,4 +15,4 @@
 
 Taller 1: https://youtu.be/kjEGqbn_d-E
 
-Taller 2: 
+Taller 2: https://www.youtube.com/watch?v=M9d0pdUUMsM
