@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="12dp">
+
+    <!-- Imagen del contacto, se usa un ícono por defecto -->
+    <ImageView
+        android:id="@+id/imageViewContact"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/it_cont"
+        android:contentDescription="Contact Icon" />
+
+    <!-- Texto que muestra el índice (e.g., 1., 2., …) -->
+    <TextView
+        android:id="@+id/textViewIndex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:text="1."
+        android:textSize="16sp"
+        android:gravity="center_vertical" />
+
+    <!-- Texto que mostrará el nombre completo del contacto -->
+    <TextView
+        android:id="@+id/textViewFullName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:text="Full Name"
+        android:textSize="16sp"
+        android:gravity="center_vertical" />
+</LinearLayout>
