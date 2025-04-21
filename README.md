@@ -9,4 +9,10 @@
 
 🏦- University: Pontificia Universidad Javeriana
 
+👑- Group name: JUGAMA.DEV
+
+🙋‍♂️- Team: Juan Rozo, Gabriel Riaño, Mapa Ruiz
+
 Taller 1: https://youtu.be/kjEGqbn_d-E
+
+Taller 2: 
