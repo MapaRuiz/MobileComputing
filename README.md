@@ -16,3 +16,5 @@
 Taller 1: https://youtu.be/kjEGqbn_d-E
 
 Taller 2: https://www.youtube.com/watch?v=M9d0pdUUMsM
+
+Taller 3: https://youtu.be/6XBIpMDfTGs
